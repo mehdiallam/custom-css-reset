@@ -1,0 +1,22 @@
+{
+  "name": "custom-css-reset",
+  "version": "1.0.0",
+  "description": "Modern Css reset using the new keywords",
+  "main": "reset.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehdiallam/custom-css-reset.git"
+  },
+  "keywords": [
+    "modern",
+    "custom",
+    "css",
+    "reset"
+  ],
+  "author": "Mehdi Allam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mehdiallam/custom-css-reset/issues"
+  },
+  "homepage": "https://github.com/mehdiallam/custom-css-reset#readme"
+}
